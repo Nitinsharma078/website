@@ -1410,6 +1410,7 @@ footer{
        width:90%;
 
     }
+
     .footer-left{
         margin-bottom: 10px;
     }
@@ -1425,6 +1426,11 @@ footer{
         width: 98vw;
         flex-direction: column;
     }
+    .contact{
+        margin-top: 0rem;
+        height: 70%;
+        width: 80%;
+    }
     .content-left-6{
     margin-top: 2rem;
     height:90vh;
@@ -1437,6 +1443,32 @@ footer{
 .content-right-6{
     height:90vh;
     width: 100%;
+
+}
+.contact-left{
+    gap: 2rem;
+   flex-direction: column;
+     /* justify-content: space-between; */
+ }
+ .content-right-6 .name{
+
+
+       width:90%;
+       height: 50px;
+   }
+   .button-6{
+    margin-left: 12rem;
+    margin-top: 0.5rem;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-size: 13px;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: #f55858;
+    color: #fff;
+    letter-spacing: 0.25px;
+    text-align: center;
 
 }
 }
