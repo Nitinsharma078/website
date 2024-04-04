@@ -19,7 +19,7 @@ body{
 
 
 .container1{
-    background-image: url("/banner1.png");
+    background-image: url("./banner1.png");
     position: relative;
     overflow-x: hidden;
     background-repeat: no-repeat;
